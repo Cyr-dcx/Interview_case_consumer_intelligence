@@ -1,0 +1,2 @@
+# interview_case_consumer_intelligence_Artefact
+Consumer segmentation
