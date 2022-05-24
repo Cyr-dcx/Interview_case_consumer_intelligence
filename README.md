@@ -1,4 +1,4 @@
-# interview_case_consumer_intelligence
+# Interview_case_consumer_intelligence
 Consumer segmentation
 
 Process summary : 
